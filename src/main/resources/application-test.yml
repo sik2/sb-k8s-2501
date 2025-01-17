@@ -4,3 +4,6 @@ spring:
     username: sa
     password:
     driver-class-name: org.h2.Driver
+custom:
+  gen:
+    dirPath: c:\temp\sb-k8s-2501-test\gen
